@@ -6,7 +6,7 @@ Como parte del proyecto del curso se debia diseñar una aplicación web que admi
 Se debia ir integrando e incorporando las siguientes características:
 
 * Interfaz amigable diseñada con los componentes bootstrap.
-* “CRUD” de toda la información (DELETE se simula con la edición de un campo de alta/baja).
+* “CRUD” de toda la información.
 * Aplicar CSS3.
 * Aplicar JQuery.
 * Aplicar los patrones diseño aprendidos.
